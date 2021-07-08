@@ -1,0 +1,33 @@
+{
+  "orders":
+  [  {"id": 1,
+   "customer": {"id": 1, "name": "Main St SRT-1", "email": "12345@ukr.net", "state": "ffd"},
+  "total": 235,
+  "placed": "2020-5-1", "fulfilled": "2020-12-2",
+  "status": "complete"},
+
+  {"id": 2,
+    "customer": {"id": 1, "name": "Main St SRT-2", "email": "12345@ukr.net", "state": "ffd"},
+    "total": 230,
+    "placed": "2020-6-1", "fulfilled": "2020-12-2",
+    "status": "complete"},
+
+  {"id": 3,
+     "customer": {"id": 1, "name": "Main St SRT-3", "email": "12345@ukr.net", "state": "ffd"},
+      "total": 231,
+      "placed": "2020-7-1","fulfilled": "2020-12-2",
+      "status": "complete"},
+
+  {"id": 4,
+      "customer": {"id": 1, "name": "Main St SRT-4 ", "email": "12345@ukr.net", "state": "ffd"},
+        "total": 232,
+       "placed": "2020-8-1", "fulfilled": "2020-12-2",
+        "status": "complete"},
+
+  {"id": 5,
+      "customer": {"id": 1, "name": "Main St SRT-5", "email": "12345@ukr.net", "state": "ffd"},
+          "total": 233,
+          "placed": "2020-3-1", "fulfilled": "2020-12-2",
+          "status": "complete"}
+
+ ] }
